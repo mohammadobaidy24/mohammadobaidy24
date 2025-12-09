@@ -1,8 +1,9 @@
+<div align="center">
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+MO24.)](https://git.io/typing-svg)
 
 
-<div align="center">
+
 
 # 👨‍💻 **Mohammad Obaidy**
 
@@ -56,7 +57,6 @@ A dedicated Network & ICT Support Technician with strong hands-on experience in 
 
 ## 🎞️ **Animated Work Showcase**
 
-*(Replace with your real GIFs later)*
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
@@ -75,9 +75,9 @@ A dedicated Network & ICT Support Technician with strong hands-on experience in 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadobaidy24&theme=tokyonight" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadobaidy24&layout=compact&theme=tokyonight" width="45%"/>
 
 </div>
 
@@ -87,7 +87,7 @@ A dedicated Network & ICT Support Technician with strong hands-on experience in 
 
 📧 Email: **[mohammadobaidy24@gmail.com](mailto:mohammadobaidy24@gmail.com)**
 🌍 Location: **Afghanistan**
-💼 GitHub: **github.com/mohammadobaidy24e**
+💼 GitHub: **github.com/mohammadobaidy24**
 
 ---
 
