@@ -1,7 +1,6 @@
-<div align="center">
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+MO24.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+MO24.)](https://git.io/typing-svg)
+<div align="center">
 
 
 
