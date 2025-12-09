@@ -2,76 +2,99 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+MO24.)](https://git.io/typing-svg)
 
 
-**mohammadobaidy24/mohammadobaidy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-# 👨‍💻 Mohammad Obaidy
+# 👨‍💻 **Mohammad Obaidy**
 
-**Network & Systems Support Technician | ISP Operations | ICT Specialist**
+### *Network & Systems Support Technician*
 
-Welcome to my GitHub profile! I'm a networking and ICT technician with hands-on experience in ISP support, customer troubleshooting, router/switch configuration, security systems, and satellite/IP camera installations.
-
----
-
-## 🌐 About Me
-
-* 💼 **Network & System Support Technician** with ISP experience
-* 🛰️ Skilled in **satellite dish alignment & configuration**
-* 📷 Experienced with **IP Cameras, DVR/NVR setup**
-* 🛜 Troubleshooting **Wi‑Fi, routers, ONTs, Mikrotik, TP‑Link, Cisco basics**
-* 🧰 Passionate about **Linux**, automation, and improving user experience
-* 🎯 Currently learning **cybersecurity, trading, and digital assets**
+🌐 **ISP Operations** • 🛰️ **Satellite Systems** • 🛜 **Networking** • 📷 **Security Systems** • 🐧 **Linux**
 
 ---
 
-## ⚙️ Skills & Technologies
+### 🔥 **Professional Profile**
 
-### **Networking & Systems**
-
-* Routing & Switching
-* LAN/WAN setup
-* Mikrotik RouterOS
-* PPPoE, DHCP, NAT, Firewall
-* Wi-Fi troubleshooting (Home & ISP level)
-* Basic Cisco configuration
-
-### **Security Systems**
-
-* IP Camera installation & configuration
-* DVR/NVR setup
-* CCTV optimization & remote access
-
-### **Tools & Platforms**
-
-* Linux (Ubuntu)
-* Windows Server basics
-* OBS Studio
-* Git & GitHub
+A dedicated Network & ICT Support Technician with strong hands-on experience in ISP operations, customer support, router configuration, troubleshooting, and security systems. Passionate about automation, Linux, cybersecurity, and building smart, modern technical solutions.
 
 ---
 
-## 🧩 Current Projects
+## 🎨 **Animated Header**
 
-* 📺 Building an **AI Storytelling Channel** (anime-style Afghan stories)
-* 🌐 Learning **cybersecurity fundamentals**
-* 🔧 Setting up home & small business network solutions
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/assets/header.svg" width="100%"/>
 
 ---
 
-## 📫 Contact Me
+## 🚀 **Technical Skills**
 
-**Email:** [your@email.com](mailto:your@email.com)
-**GitHub:** github.com/yourusername
-**Location:** Afghanistan
+<div align="center">
+
+### 🔧 **Networking & Systems**
+
+![Networking](https://img.shields.io/badge/Networking-0059b3?style=for-the-badge)
+![Mikrotik](https://img.shields.io/badge/Mikrotik%20RouterOS-a100ff?style=for-the-badge)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-008060?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-ffaa00?style=for-the-badge)
+![PPPoE](https://img.shields.io/badge/PPPoE-3399ff?style=for-the-badge)
+
+### 🛰️ **Systems & Security**
+
+![CCTV](https://img.shields.io/badge/CCTV%20Systems-333333?style=for-the-badge)
+![NVR](https://img.shields.io/badge/NVR/DVR-000080?style=for-the-badge)
+![IP%20Camera](https://img.shields.io/badge/IP%20Camera-009999?style=for-the-badge)
+
+### 💻 **Operating Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-ffcc00?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 Fun Facts
+## 🎞️ **Animated Work Showcase**
 
-* I love solving internet issues for customers
-* Passionate about AI-generated content
-* Always learning something new in IT
+*(Replace with your real GIFs later)*
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 ---
 
-If you want, I can make this more professional, add icons, or style it with badges.
+## 🧩 **Current Projects**
 
+* 🎬 Building an **AI Anime Storytelling Channel** featuring Afghan stories
+* 🔐 Learning **Cybersecurity fundamentals**
+* 🛜 Designing **Home & Small Business Network setups**
+* 🤖 Exploring **automation with Linux & scripts**
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="60%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="45%"/>
+
+</div>
+
+---
+
+## 📫 **Contact Me**
+
+📧 Email: **[mohammadobaidy24@gmail.com](mailto:mohammadobaidy24@gmail.com)**
+🌍 Location: **Afghanistan**
+💼 GitHub: **github.com/mohammadobaidy24e**
+
+---
+
+<div align="center">
+
+### ⭐ *Thanks for visiting my profile!* ⭐
+
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/assets/footer.svg" width="100%"/>
+
+</div>
