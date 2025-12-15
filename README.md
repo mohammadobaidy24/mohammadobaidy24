@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+MO24.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+my+Portifolo.)](https://git.io/typing-svg)
 <div align="center">
 
 
@@ -15,12 +15,6 @@
 ### 🔥 **Professional Profile**
 
 A dedicated Network & ICT Support Technician with strong hands-on experience in ISP operations, customer support, router configuration, troubleshooting, and security systems. Passionate about automation, Linux, cybersecurity, and building smart, modern technical solutions.
-
----
-
-## 🎨 **Animated Header**
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/assets/header.svg" width="100%"/>
 
 ---
 
@@ -70,18 +64,6 @@ A dedicated Network & ICT Support Technician with strong hands-on experience in 
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadobaidy24&theme=tokyonight" width="60%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadobaidy24&layout=compact&theme=tokyonight" width="45%"/>
-
-</div>
-
----
-
 ## 📫 **Contact Me**
 
 📧 Email: **[mohammadobaidy24@gmail.com](mailto:mohammadobaidy24@gmail.com)**
@@ -94,6 +76,6 @@ A dedicated Network & ICT Support Technician with strong hands-on experience in 
 
 ### ⭐ *Thanks for visiting my profile!* ⭐
 
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/assets/footer.svg" width="100%"/>
-
 </div>
+
+
